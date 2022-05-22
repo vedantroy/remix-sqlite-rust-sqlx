@@ -1,3 +1,7 @@
+# MVP
+- See everyone's cursors on any page
+- Anyone can chat with anyone else
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
